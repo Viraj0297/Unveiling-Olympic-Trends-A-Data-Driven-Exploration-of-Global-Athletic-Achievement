@@ -1,7 +1,6 @@
 # Unveiling-Olympic-Trends-A-Data-Driven-Exploration-of-Global-Athletic-Achievement
 
 ## Project Overview
-
 This project aims to transform raw Olympic medal data into meaningful insights through rigorous analysis and visualization. Using Power BI, this exploration uncovers patterns and trends that lie beneath the surface of one of the world's most prestigious sporting events.
 
 ## Key Components
