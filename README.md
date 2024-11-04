@@ -15,7 +15,7 @@ A robust data model was constructed to encapsulate the relationships among athle
 Using Power BI's advanced visualization capabilities, interactive dashboards were created to vividly illustrate the Olympic story. Key features include:
 
 ## Results and Insights
-The project successfully demonstrated how thoughtful analysis and effective data visualization can reveal compelling narratives of global athletic achievement. Insights generated from this analysis are valuable for sports analysts, enthusiasts, fostering a deeper understanding of Olympic trends.
+The project effectively showcased how careful analysis and impactful data visualization can uncover powerful stories of global athletic success. The insights gained from this analysis offer significant value for sports analysts and enthusiasts alike, promoting a richer understanding of Olympic trends.
 
 ## Technologies Used
  Power BI
